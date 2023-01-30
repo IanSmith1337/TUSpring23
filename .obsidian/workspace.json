@@ -24,13 +24,8 @@
             "id": "d9100ff7925f0993",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bloom.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -152,7 +147,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d9100ff7925f0993",
+  "active": "f6f0cf6bc66b693b",
   "lastOpenFiles": [
     "Testing/Software Testing.md",
     "Testing/ST Canvas.canvas",
