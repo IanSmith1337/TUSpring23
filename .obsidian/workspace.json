@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a35b38562f94a5c7",
+        "id": "20dca57592143c41",
         "type": "tabs",
         "children": [
           {
-            "id": "57815eafb7e750b8",
+            "id": "ceeb42b42e187421",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Software Testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,18 +70,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dcd2d9c5158eb9f4",
     "type": "split",
     "children": [
       {
-        "id": "9c22cbf0dd685497",
+        "id": "a761e4f2a692cbdf",
         "type": "tabs",
         "children": [
           {
-            "id": "7860f67574c78f22",
+            "id": "1f2b739cb045e43c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -84,18 +89,10 @@
             }
           },
           {
-            "id": "4ac2ad2fe19c6b4d",
+            "id": "8bc2e9201cd4bdf9",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "b729cd1805822433",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           },
@@ -110,17 +107,30 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "06a5e3bd6084d7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b729cd1805822433",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -128,6 +138,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b729cd1805822433",
-  "lastOpenFiles": []
+  "active": "ceeb42b42e187421",
+  "lastOpenFiles": [
+    "Testing/Software Testing.md",
+    "Testing/ST Canvas.canvas",
+    "Syllabi/Software Testing Syllabi.md",
+    "Testing/Untitled.md"
+  ]
 }

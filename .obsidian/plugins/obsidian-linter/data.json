@@ -69,7 +69,7 @@
     },
     "Header Increment": {
       "Heading levels should only increment by one level at a time": true,
-      "Start Header Increment at Heading Level 2": true
+      "Start Header Increment at Heading Level 2": false
     },
     "Headings Start Line": {
       "Headings that do not start a line will have their preceding whitespace removed to make sure they get recognized as headers.": true
