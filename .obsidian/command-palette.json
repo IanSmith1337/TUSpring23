@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "graph:open",
+    "persistent-graph:save-node-positions",
+    "persistent-graph:restore-node-positions"
+  ]
+}
