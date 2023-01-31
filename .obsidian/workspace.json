@@ -32,12 +32,15 @@
             "id": "8098338e6974ab05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Syllabi/Graphics Syllabus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Testing/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -160,8 +163,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f6f0cf6bc66b693b",
+  "active": "8098338e6974ab05",
   "lastOpenFiles": [
+    "Syllabi/Graphics Syllabus.md",
     "Testing/Software Testing.md",
     "Testing/ST Canvas.canvas",
     "Syllabi/Software Testing Syllabi.md",
