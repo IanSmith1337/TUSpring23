@@ -27,9 +27,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "8098338e6974ab05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syllabi/Graphics Syllabus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f2b739cb045e43c",
+  "active": "f6f0cf6bc66b693b",
   "lastOpenFiles": [
     "Testing/Software Testing.md",
     "Testing/ST Canvas.canvas",
