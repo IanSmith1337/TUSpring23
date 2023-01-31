@@ -20,3 +20,7 @@ animation
 This is pretty much the stuff behind Unity and Unreal engines.
 
 No text required!
+
+One week before finals week will be the final project showcase.
+
+Submissions later than 5 minutes past due date will not be accepted.
