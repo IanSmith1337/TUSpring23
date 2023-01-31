@@ -8,7 +8,7 @@ She has some projects that need student assistance… maybe check with her?
 
 This class is NOT about gaming, it's the precursor to it.
 
-2 and 3D transforms  
+2D and 3D transforms  
 Rasterization  
 shading  
 reflectance  
