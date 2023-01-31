@@ -32,16 +32,8 @@
             "id": "8098338e6974ab05",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Testing/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -163,7 +155,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8098338e6974ab05",
+  "active": "f6f0cf6bc66b693b",
   "lastOpenFiles": [
     "Syllabi/Graphics Syllabus.md",
     "Testing/Software Testing.md",
