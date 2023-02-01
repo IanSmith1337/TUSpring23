@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/HTML Basics.md",
+                "file": "Head.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,13 +162,15 @@
   },
   "active": "8098338e6974ab05",
   "lastOpenFiles": [
+    "WebDev/HTML.md",
+    "WebDev/Tags.md",
+    "WebDev/Meta.md",
+    "WebDev/HTML Basics.md",
     "Syllabi/Untitled.canvas",
     "Syllabi/Web Development Syllabus.md",
     "Testing/Untitled.canvas",
     "Syllabi/Graphics Syllabus.md",
     "Testing/Software Testing.md",
-    "Testing/ST Canvas.canvas",
-    "Syllabi/Software Testing Syllabi.md",
-    "Testing/Untitled.md"
+    "Testing/ST Canvas.canvas"
   ]
 }
