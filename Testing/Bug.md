@@ -1,5 +1,9 @@
 #testing 
 
-# Origin
+# Bug
 
-Grace Hopper's bug was 
+## Origin
+
+Grace Hopper's bug was a literal bug in the hardware. A moth had died in a relay.
+
+##
