@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cc543719c5a82f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Bug.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Software Testing.md",
+                "file": "Testing/Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Software Testing.md",
+                "file": "Testing/Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Software Testing.md"
+                "file": "Testing/Bug.md"
               }
             }
           }
@@ -177,14 +191,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ceeb42b42e187421",
+  "active": "1cc543719c5a82f3",
   "lastOpenFiles": [
+    "Testing/Software Testing.md",
     "WebDev/Document Object Model.md",
     "WebDev/Tags.md",
     "WebDev/HTML.md",
     "WebDev/Head.md",
     "WebDev/Meta.md",
-    "Testing/Software Testing.md",
     "WebDev/Body.md",
     "WebDev/HTML Basics.md",
     "Syllabi/Untitled.canvas",
