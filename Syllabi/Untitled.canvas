@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5fac26972c6437ce","x":14,"y":-111,"width":400,"height":400,"type":"file","file":"Syllabi/Graphics Syllabus.md"},
+		{"id":"6025782751419686","x":-235,"y":-518,"width":250,"height":60,"type":"text","text":"This is a flash card"}
+	],
+	"edges":[
+		{"id":"57d6772772789ceb","fromNode":"5fac26972c6437ce","fromSide":"top","toNode":"6025782751419686","toSide":"bottom"}
+	]
+}

@@ -32,12 +32,15 @@
             "id": "8098338e6974ab05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Syllabi/Web Development Syllabus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Syllabi/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -80.046875,
+                  "zoom": -0.39525720996161295,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -160,7 +163,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f2b739cb045e43c",
+  "active": "8098338e6974ab05",
   "lastOpenFiles": [
     "Syllabi/Web Development Syllabus.md",
     "Testing/Untitled.canvas",
