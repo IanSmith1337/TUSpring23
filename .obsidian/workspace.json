@@ -32,8 +32,13 @@
             "id": "8098338e6974ab05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/HTML Basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -155,7 +160,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f2b739cb045e43c",
+  "active": "8098338e6974ab05",
   "lastOpenFiles": [
     "Syllabi/Untitled.canvas",
     "Syllabi/Web Development Syllabus.md",
