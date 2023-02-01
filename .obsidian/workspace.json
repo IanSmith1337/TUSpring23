@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Software Testing.md",
+                "file": "WebDev/HTML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9100ff7925f0993",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,17 +138,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d9100ff7925f0993",
+  "active": "ceeb42b42e187421",
   "lastOpenFiles": [
-    "WebDev/HTML.md",
-    "WebDev/Tags.md",
     "WebDev/Meta.md",
+    "WebDev/HTML.md",
+    "Testing/Software Testing.md",
+    "WebDev/Tags.md",
     "WebDev/Head.md",
     "WebDev/Body.md",
     "WebDev/HTML Basics.md",
     "Syllabi/Untitled.canvas",
     "Syllabi/Web Development Syllabus.md",
-    "Testing/Untitled.canvas",
-    "Syllabi/Graphics Syllabus.md"
+    "Testing/Untitled.canvas"
   ]
 }

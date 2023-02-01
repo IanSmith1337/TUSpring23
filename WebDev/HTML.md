@@ -21,3 +21,8 @@ HTML - `<html>`
 
 [[Body]] - `<body>`
 
+## Comments
+
+```
+<!- this is a comment -->
+```
