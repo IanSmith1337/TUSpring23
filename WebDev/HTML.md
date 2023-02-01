@@ -7,11 +7,11 @@
 
 Stands for HyperText Markup Language
 
-Is also a tag that denotes usage of the language
+Is also a [[Tags|Tag]] that denotes usage of the language
 
-Consists of [[Tags]] which denote parts of the website.
+Consists of a [[Document Object Model]], which consists of [[Tags]].
 
-## Tag Examples
+## [[Tags|Tag]] Examples
 
 HTML - `<html>`
 
@@ -25,4 +25,10 @@ HTML - `<html>`
 
 ```
 <!- this is a comment -->
+```
+
+## Attributes
+
+```
+<p class="a" >
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/HTML.md",
+                "file": "WebDev/Document Object Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,17 +138,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ceeb42b42e187421",
+  "active": "1f2b739cb045e43c",
   "lastOpenFiles": [
-    "WebDev/Meta.md",
-    "WebDev/HTML.md",
-    "Testing/Software Testing.md",
+    "WebDev/Document Object Model.md",
     "WebDev/Tags.md",
+    "WebDev/HTML.md",
     "WebDev/Head.md",
+    "WebDev/Meta.md",
+    "Testing/Software Testing.md",
     "WebDev/Body.md",
     "WebDev/HTML Basics.md",
     "Syllabi/Untitled.canvas",
-    "Syllabi/Web Development Syllabus.md",
-    "Testing/Untitled.canvas"
+    "Syllabi/Web Development Syllabus.md"
   ]
 }
