@@ -27,22 +27,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8098338e6974ab05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +147,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8098338e6974ab05",
+  "active": "d9100ff7925f0993",
   "lastOpenFiles": [
+    "WebDev/HTML.md",
     "WebDev/Tags.md",
     "WebDev/Meta.md",
-    "WebDev/HTML.md",
     "WebDev/Head.md",
     "WebDev/Body.md",
     "WebDev/HTML Basics.md",
