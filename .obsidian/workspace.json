@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b89ec6f19ea37dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Computer Graphics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphics/Computer Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphics/Computer Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphics/Computer Graphics.md"
+              }
             }
           }
         ]
@@ -187,7 +204,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f2b739cb045e43c",
+  "active": "5b89ec6f19ea37dc",
   "lastOpenFiles": [
     "Testing/Bug.md",
     "Testing/Software Testing.md",
