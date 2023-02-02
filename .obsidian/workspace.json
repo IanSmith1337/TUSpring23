@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Computer Graphics.md",
+                "file": "WebDev/Head.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Computer Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Computer Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphics/Computer Graphics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,17 +200,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b89ec6f19ea37dc",
+  "active": "1f2b739cb045e43c",
   "lastOpenFiles": [
+    "WebDev/Head.md",
+    "WebDev/Body.md",
+    "Graphics/Computer Graphics.md",
     "Testing/Bug.md",
     "Testing/Software Testing.md",
     "WebDev/Document Object Model.md",
     "WebDev/Tags.md",
     "WebDev/HTML.md",
-    "WebDev/Head.md",
     "WebDev/Meta.md",
-    "WebDev/Body.md",
-    "WebDev/HTML Basics.md",
-    "Syllabi/Untitled.canvas"
+    "WebDev/HTML Basics.md"
   ]
 }
