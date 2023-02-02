@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Particle System.md",
+                "file": "Graphics/Computer Graphics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Particle System.md",
+                "file": "Graphics/Computer Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Particle System.md",
+                "file": "Graphics/Computer Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Particle System.md"
+                "file": "Graphics/Computer Graphics.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "1d6ed344992683fb",
   "lastOpenFiles": [
+    "Graphics/Particle System.md",
     "Graphics/Computer Graphics.md",
     "Graphics/Splines.md",
     "WebDev/Head.md",
@@ -240,7 +241,6 @@
     "Testing/Software Testing.md",
     "WebDev/Document Object Model.md",
     "WebDev/Tags.md",
-    "WebDev/HTML.md",
-    "WebDev/Meta.md"
+    "WebDev/HTML.md"
   ]
 }

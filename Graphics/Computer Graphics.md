@@ -11,4 +11,5 @@ The use of computers to synthesize and manipulate visual information.
 
 Movies  
 Video Games  
-Animations
+Animations  
+VR/AR
