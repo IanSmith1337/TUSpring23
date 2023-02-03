@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceeb42b42e187421",
+            "id": "e49d443ec2b919f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Software Testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc543719c5a82f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Bug.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b89ec6f19ea37dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/Head.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "971d66092c085987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Computer Graphics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d6ed344992683fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Computer Graphics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70edafeb7021408a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Rasterization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e820b4e59a1c530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Ray Tracing.md",
+                "file": "Syllabi/Data Mining Syllabus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,6 +175,7 @@
   },
   "active": "1f2b739cb045e43c",
   "lastOpenFiles": [
+    "Syllabi/Data Mining Syllabus.md",
     "Graphics/Ray Tracing.md",
     "Graphics/Rasterization.md",
     "Graphics/Computer Graphics.md",
@@ -262,7 +184,6 @@
     "WebDev/Head.md",
     "WebDev/Body.md",
     "Testing/Bug.md",
-    "Testing/Software Testing.md",
-    "WebDev/Document Object Model.md"
+    "Testing/Software Testing.md"
   ]
 }
