@@ -1,6 +1,6 @@
 #testing
 
-# Software Testing
+# Software [[Software Testing|Testing]]
 
 ## Basic Definition
 

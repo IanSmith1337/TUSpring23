@@ -6,6 +6,6 @@
 
 "Are we building it right?"
 
-Software specs and System plus testing inspections and static analysis.
+Software specs and System plus [[Software Testing|Testing]] inspections and static analysis.
 
 Comes after [[Validation]]

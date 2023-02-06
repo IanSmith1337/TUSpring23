@@ -52,7 +52,85 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Testing/Validation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6c70e0253990b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Testing/Validation and Verification Process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "773be4496ad70a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Static.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f765305369bfd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Verification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fef7c7ba2c23afe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Fault.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45af6236d0660ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Error.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa732c2cadfcbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Failure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -89,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#syllabus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Validation and Verification Process.md",
+                "file": "Testing/Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Validation and Verification Process.md",
+                "file": "Testing/Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Validation and Verification Process.md"
+                "file": "Testing/Failure.md"
               }
             }
           }
@@ -217,17 +295,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb9ea79323911b7d",
+  "active": "5aa732c2cadfcbcb",
   "lastOpenFiles": [
-    "Testing/Validation.md",
-    "Testing/Validation and Verification Process.md",
+    "Testing/Error.md",
+    "Testing/Fault.md",
+    "Testing/Dynamic Testing.md",
+    "Testing/Defect Testing.md",
+    "Defects.md",
+    "Testing/Bug.md",
     "Testing/Verification.md",
-    "Testing/Software Testing.md",
-    "Syllabi/Data Mining Syllabus.md",
-    "Graphics/Ray Tracing.md",
-    "Graphics/Rasterization.md",
-    "Graphics/Computer Graphics.md",
-    "Graphics/Particle System.md",
-    "Graphics/Splines.md"
+    "Testing/Validation.md",
+    "Testing/Static.md",
+    "Testing/Software Testing.md"
   ]
 }
