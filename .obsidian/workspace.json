@@ -149,9 +149,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b3e239048105d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Debugging.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f348287c06e216f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/RIP Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d229440f95f805e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Test Case.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -244,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Accident.md",
+                "file": "Testing/Test Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Accident.md",
+                "file": "Testing/Test Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Accident.md"
+                "file": "Testing/Test Case.md"
               }
             }
           }
@@ -308,17 +347,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "22768a47d360aa2d",
+  "active": "d229440f95f805e3",
   "lastOpenFiles": [
+    "Testing/RIP Model.md",
+    "Testing/Debugging.md",
+    "Testing/Accident.md",
     "Hazards.md",
     "Testing/Failure.md",
     "Testing/Error.md",
     "Testing/Fault.md",
     "Testing/Dynamic Testing.md",
     "Testing/Defect Testing.md",
-    "Defects.md",
-    "Testing/Bug.md",
-    "Testing/Verification.md",
-    "Testing/Validation.md"
+    "Defects.md"
   ]
 }
