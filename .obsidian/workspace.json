@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabi/Data Mining Syllabus.md",
+                "file": "Testing/Software Testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,6 +175,7 @@
   },
   "active": "1f2b739cb045e43c",
   "lastOpenFiles": [
+    "Testing/Software Testing.md",
     "Syllabi/Data Mining Syllabus.md",
     "Graphics/Ray Tracing.md",
     "Graphics/Rasterization.md",
@@ -183,7 +184,6 @@
     "Graphics/Splines.md",
     "WebDev/Head.md",
     "WebDev/Body.md",
-    "Testing/Bug.md",
-    "Testing/Software Testing.md"
+    "Testing/Bug.md"
   ]
 }
