@@ -130,7 +130,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Failure.md",
+                "file": "Hazards.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22768a47d360aa2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Accident.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -231,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Failure.md",
+                "file": "Testing/Accident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Failure.md",
+                "file": "Testing/Accident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Failure.md"
+                "file": "Testing/Accident.md"
               }
             }
           }
@@ -295,8 +308,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5aa732c2cadfcbcb",
+  "active": "22768a47d360aa2d",
   "lastOpenFiles": [
+    "Hazards.md",
+    "Testing/Failure.md",
     "Testing/Error.md",
     "Testing/Fault.md",
     "Testing/Dynamic Testing.md",
@@ -304,8 +319,6 @@
     "Defects.md",
     "Testing/Bug.md",
     "Testing/Verification.md",
-    "Testing/Validation.md",
-    "Testing/Static.md",
-    "Testing/Software Testing.md"
+    "Testing/Validation.md"
   ]
 }
