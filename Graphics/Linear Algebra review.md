@@ -42,9 +42,19 @@ For Unit Vectors:
 
 cos(theta) = A-hat • B-hat
 
-##### In Cartesian
+##### Projection
 
-A-> • B
+project b = k • ahat
+
+k = ((b->)) cos(theta)
+
+#### Cross
+
+A X B = -B X A
+
+((A X B)) = ((A))((B))sin(theta)
+
+Use right hand rule.
 
 ## Cartesian Coordinates
 
