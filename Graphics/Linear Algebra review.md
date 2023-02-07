@@ -38,7 +38,13 @@ A • B = ((A))((B))cos(theta)
 
 cos(theta) = (A•B)/((A))((B))
 
-For Unit Vectors
+For Unit Vectors:
+
+cos(theta) = A-hat • B-hat
+
+##### In Cartesian
+
+A-> • B
 
 ## Cartesian Coordinates
 
