@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphics/Linear Algebra Review.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01a8c3dcb046be22",
+  "active": "fb7e2e0dcdd3255b",
   "lastOpenFiles": [
     "Graphics/Linear Algebra Review.md",
     "Testing/Untitled.md",
