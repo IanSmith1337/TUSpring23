@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4fd76f37ff4981",
+        "id": "47ea068aa4a461e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2c3f177ce5fa2d",
+            "id": "01a8c3dcb046be22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,7 +177,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff2c3f177ce5fa2d",
+  "active": "01a8c3dcb046be22",
   "lastOpenFiles": [
     "Graphics/Linear Algebra Review.md",
     "Testing/Untitled.md",

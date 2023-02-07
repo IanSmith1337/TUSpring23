@@ -18,9 +18,30 @@ Contains direction and length.
 
 No absolute starting position.
 
-## Normalization
+### Normalization
 
-Magnitude = || ->A ||
+Magnitude = ((A))
 
-Unit vectors:
-- Magnitude of 1.
+Unit vectors = Magnitude of 1.
+
+### Addition
+
+Hypotenuse = addition of -> A and -> B.
+
+In Cartesian Coords: Just add.
+
+### Multiplication
+
+#### Dot (scalar)
+
+A • B = ((A))((B))cos(theta)
+
+cos(theta) = (A•B)/((A))((B))
+
+## Cartesian Coordinates
+
+X and Y graph. Described as any orthogonal UNIT vector.
+
+A= (x y)  
+A^T = (x, y)  
+((A)) = sqrt(x^2+y^2)
