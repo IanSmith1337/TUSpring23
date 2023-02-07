@@ -38,6 +38,8 @@ A • B = ((A))((B))cos(theta)
 
 cos(theta) = (A•B)/((A))((B))
 
+For Unit Vectors
+
 ## Cartesian Coordinates
 
 X and Y graph. Described as any orthogonal UNIT vector.
