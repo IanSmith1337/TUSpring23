@@ -25,3 +25,5 @@ Post = body of request
 Essentially, where do we go afterwards?
 
 ### Validation
+
+Requires at least 1 character in the input.
