@@ -19,7 +19,8 @@
 
 ## Attributes
 
-### td
+### TD
 
 colspan="x" (Column span) - span x columns  
 rowspan="x" (Column span) - span x rows
+
