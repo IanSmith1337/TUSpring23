@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/Images.md",
+                "file": "WebDev/Tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WebDev/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WebDev/Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WebDev/Tables.md"
+              }
             }
           }
         ]
@@ -200,7 +204,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb7e2e0dcdd3255b",
+  "active": "7c0902c6597ce68d",
   "lastOpenFiles": [
     "WebDev/Images.md",
     "WebDev/Forms.md",
