@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Cyclomatic Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Cyclomatic Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testing/Cyclomatic Complexity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,8 +200,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7ff470133abb4210",
+  "active": "fb7e2e0dcdd3255b",
   "lastOpenFiles": [
+    "Testing/Cyclomatic Complexity.md",
     "WebDev/Forms.md",
     "WebDev/Head.md",
     "WebDev/HTML.md",
@@ -214,7 +211,6 @@
     "WebDev/Input.md",
     "WebDev/Tables.md",
     "WebDev/Tags.md",
-    "Graphics/Linear Algebra Review.md",
-    "Testing/Cyclomatic Complexity.md"
+    "Graphics/Linear Algebra Review.md"
   ]
 }
