@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebDev/Images.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,11 +200,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7c0902c6597ce68d",
+  "active": "fb7e2e0dcdd3255b",
   "lastOpenFiles": [
+    "WebDev/Images.md",
     "WebDev/Forms.md",
     "WebDev/Tables.md",
-    "WebDev/Images.md",
     "Graphics/Linear Algebra Review.md",
     "Testing/Untitled.md",
     "Testing/Software Testing.md",
