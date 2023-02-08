@@ -21,14 +21,15 @@ HTML - `<html>`
 
 [[Body]] - `<body>`
 
-## Comments
+## Comments Example
 
 ```
 <!- this is a comment -->
 ```
 
-## Attributes
+## Attribute Example
 
 ```
-<p class="a" >
+<p class="a">
+ ^-Element ^-Attribute
 ```

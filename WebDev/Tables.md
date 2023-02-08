@@ -2,7 +2,7 @@
 
 # Tables
 
-## Tag
+## [[Tags|Tag]]
 
 ```
 <table>
@@ -23,4 +23,3 @@
 
 colspan="x" (Column span) - span x columns  
 rowspan="x" (Column span) - span x rows
-

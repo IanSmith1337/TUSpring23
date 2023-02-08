@@ -4,8 +4,8 @@
 
 One of the common [[HTML]] [[Tags]].
 
-## Tag
+## [[Tags|Tag]]
 
 ```
-<img>
+<img src="imagelinkhere">
 ```
