@@ -23,3 +23,5 @@ Post = body of request
 ### Action
 
 Essentially, where do we go afterwards?
+
+### Validation
