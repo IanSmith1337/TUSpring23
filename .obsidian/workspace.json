@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/Images.md",
+                "file": "Graphics/Linear Algebra Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,6 +201,8 @@
   },
   "active": "fb7e2e0dcdd3255b",
   "lastOpenFiles": [
+    "Graphics/Linear Algebra Review.md",
+    "Graphics/Computer Graphics.md",
     "Testing/Cyclomatic Complexity.md",
     "WebDev/Forms.md",
     "WebDev/Head.md",
@@ -209,8 +210,6 @@
     "WebDev/Images.md",
     "WebDev/Meta.md",
     "WebDev/Input.md",
-    "WebDev/Tables.md",
-    "WebDev/Tags.md",
-    "Graphics/Linear Algebra Review.md"
+    "WebDev/Tables.md"
   ]
 }
