@@ -44,7 +44,7 @@ cos(theta) = A-hat • B-hat
 
 ##### Projection
 
-project b = k • ahat
+project b = k • A-hat
 
 k = ((b->)) cos(theta)
 
@@ -63,3 +63,15 @@ X and Y graph. Described as any orthogonal UNIT vector.
 A= (x y)  
 A^T = (x, y)  
 ((A)) = sqrt(x^2+y^2)
+
+## Matrix
+
+MxN array of numbers.
+
+$$\begin{pmatrix}   1 & 2 & 3\\   4 & 5 & 6   \end{pmatrix}$$
+
+### Matrix Multiplication
+
+(M x N)(N x P) = (M x P)
+
+$$\begin{pmatrix}   1 & 3\\   5 & 2\\ 0 & 4  \end{pmatrix}$$
