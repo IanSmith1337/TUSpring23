@@ -72,6 +72,8 @@ $$\begin{pmatrix}   1 & 2 & 3\\   4 & 5 & 6   \end{pmatrix}$$
 
 ### Matrix Multiplication
 
+Uses Dot Product.
+
 (M x N)(N x P) = (M x P)
 
-$$\begin{pmatrix}   1 & 3\\   5 & 2\\ 0 & 4  \end{pmatrix}$$
+$$\begin{pmatrix}   1 & 3\\   5 & 2\\ 0 & 4  \end{pmatrix}\begin{pmatrix}   3&6&9&4\\   2&7&8&3\end{pmatrix}=\begin{pmatrix}   9&?&33&13\\   19&44&61&26\\ 8&28&32&?\end{pmatrix}$$
