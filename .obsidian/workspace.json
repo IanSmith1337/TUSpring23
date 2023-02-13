@@ -179,15 +179,15 @@
   },
   "active": "1abb089609801fd4",
   "lastOpenFiles": [
+    "Testing/Defects.md",
+    "Testing/Bug.md",
+    "Testing/Fault.md",
     "Testing/Accident.md",
     "Graphics/Linear Algebra Review.md",
     "WebDev/Meta.md",
     "Graphics/Computer Graphics.md",
     "Testing/Cyclomatic Complexity.md",
     "WebDev/Forms.md",
-    "WebDev/Head.md",
-    "WebDev/HTML.md",
-    "WebDev/Images.md",
-    "WebDev/Input.md"
+    "WebDev/Head.md"
   ]
 }

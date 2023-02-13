@@ -4,4 +4,4 @@
 
 ## Definition
 
-Not a [[Bug]]. Started from a [[Fault]].
+Started from a [[Fault]].
