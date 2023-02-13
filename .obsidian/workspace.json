@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md",
+                "file": "Testing/Bug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md",
+                "file": "Testing/Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md",
+                "file": "Testing/Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Linear Algebra Review.md"
+                "file": "Testing/Bug.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "1abb089609801fd4",
   "lastOpenFiles": [
+    "Testing/Accident.md",
     "Graphics/Linear Algebra Review.md",
     "WebDev/Meta.md",
     "Graphics/Computer Graphics.md",
@@ -187,7 +188,6 @@
     "WebDev/Head.md",
     "WebDev/HTML.md",
     "WebDev/Images.md",
-    "WebDev/Input.md",
-    "WebDev/Tables.md"
+    "WebDev/Input.md"
   ]
 }
