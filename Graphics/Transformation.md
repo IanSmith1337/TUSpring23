@@ -65,3 +65,5 @@ $$
 
 ## Rotation (about origin)
 
+$$r(theta):$$
+
