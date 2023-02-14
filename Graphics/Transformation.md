@@ -67,3 +67,5 @@ $$
 
 $$r(theta):$$
 
+$$ R_\theta = \begin{pmatrix}   cos(\theta) & -sin(\theta)\\   sin(\theta) & cos(\theta)  \end{pmatrix}
+$$
