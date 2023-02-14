@@ -219,15 +219,15 @@
   },
   "active": "9208e836d2054683",
   "lastOpenFiles": [
+    "Graphics/Linear Algebra Review.md",
+    "Graphics/Computer Graphics.md",
+    "Graphics/Rasterization.md",
+    "Graphics/Transformation.md",
     "Testing/Laws of SE.md",
     "Testing/Refactoring.md",
     "Testing/Bug.md",
     "Testing/Defects.md",
     "Testing/Fault.md",
-    "Testing/Accident.md",
-    "Graphics/Linear Algebra Review.md",
-    "WebDev/Meta.md",
-    "Graphics/Computer Graphics.md",
-    "Testing/Cyclomatic Complexity.md"
+    "Testing/Accident.md"
   ]
 }
