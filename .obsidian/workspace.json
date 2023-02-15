@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Validation.md",
+                "file": "Testing/Cyclomatic Complexity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c566149392caf684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Predicate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Validation.md",
+                "file": "Testing/Predicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Validation.md",
+                "file": "Testing/Predicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Validation.md"
+                "file": "Testing/Predicate.md"
               }
             }
           }
@@ -217,17 +230,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9208e836d2054683",
+  "active": "c566149392caf684",
   "lastOpenFiles": [
+    "Testing/Cyclomatic Complexity.md",
+    "Testing/Validation.md",
+    "Testing/Validation and Verification Process.md",
     "Graphics/Transformation.md",
     "Graphics/Linear Algebra Review.md",
     "Graphics/Computer Graphics.md",
     "Graphics/Rasterization.md",
     "Testing/Laws of SE.md",
     "Testing/Refactoring.md",
-    "Testing/Bug.md",
-    "Testing/Defects.md",
-    "Testing/Fault.md",
-    "Testing/Accident.md"
+    "Testing/Bug.md"
   ]
 }
