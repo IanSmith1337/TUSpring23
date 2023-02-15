@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "834c0de6ba6f26f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Predicate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,8 +243,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c566149392caf684",
+  "active": "834c0de6ba6f26f3",
   "lastOpenFiles": [
+    "Testing/Clause.md",
+    "Testing/Predicate.md",
     "Testing/Cyclomatic Complexity.md",
     "Testing/Validation.md",
     "Testing/Validation and Verification Process.md",
@@ -239,8 +254,6 @@
     "Graphics/Linear Algebra Review.md",
     "Graphics/Computer Graphics.md",
     "Graphics/Rasterization.md",
-    "Testing/Laws of SE.md",
-    "Testing/Refactoring.md",
-    "Testing/Bug.md"
+    "Testing/Laws of SE.md"
   ]
 }
