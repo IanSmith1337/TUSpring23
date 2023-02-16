@@ -69,3 +69,13 @@ $$r(theta):$$
 
 $$ R_\theta = \begin{pmatrix}   cos(\theta) & -sin(\theta)\\   sin(\theta) & cos(\theta)  \end{pmatrix}
 $$
+
+## Translation
+
+$$ 
+x' = t_x + x
+$$
+
+$$ 
+y' = t_y+y
+$$
