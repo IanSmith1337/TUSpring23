@@ -5,9 +5,9 @@
 
 ## Usage
 
-Used in [[Transformation]]; specifically, Translation.
+Used in [[Transformation]].
 
-## Method
+## Method for Translation
 
 Add a third coordinate (with value 1 for point, 0 for vector), then create matrix.
 

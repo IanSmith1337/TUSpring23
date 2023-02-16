@@ -79,3 +79,7 @@ $$
 $$ 
 y' = t_y+y
 $$
+
+## Inverse
+
+Basically undoes a transform.
