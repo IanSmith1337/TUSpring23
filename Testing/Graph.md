@@ -4,5 +4,4 @@
 
 ## Definition
 
-An image of all possible routes in programming.
-
+An diagram of all possible routes in programming.
