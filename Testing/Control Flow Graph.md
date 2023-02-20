@@ -9,11 +9,14 @@ A control flow [[graph]] (or flow [[graph]]) G is defined as a finite set N of [
 
 In a flow graph of a program, each [[basic block]] becomes a [[node]] and [[edges]] are used to indicate the flow of control between blocks.
 
-
 ## Exercise
 
-			   True	(1) - If A=10
-			    |------|
-		True	  (2) - IF B>C    False
-		|------|-------------------|
+					 (1) - If A=10
+				 True |
+		True	        (2) - IF B>C    False
+		|--------------|-------------------|
 	   (3) - A=B                  (4) - A = C
+
+$$M= 3 - 4 + 2(3) =3-4+6 = 7 $$
+
+Max tests: 7. 3 for variables, 4 for each edge.

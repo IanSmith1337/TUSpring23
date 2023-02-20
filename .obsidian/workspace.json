@@ -65,15 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Control Flow Graph.md",
+                "file": "Testing/Cyclomatic Complexity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Control Flow Graph.md",
+                "file": "Testing/Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Control Flow Graph.md",
+                "file": "Testing/Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Control Flow Graph.md"
+                "file": "Testing/Nodes.md"
               }
             }
           }
@@ -230,17 +229,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "265e8ca0905db8e2",
+  "active": "c4fc9ef336bd260d",
   "lastOpenFiles": [
-    "Testing/Basic Block.md",
-    "Testing/Length.md",
     "Testing/Edges.md",
+    "Testing/Length.md",
+    "Testing/Cyclomatic Complexity.md",
+    "Testing/Control Flow Graph.md",
+    "Testing/Basic Block.md",
     "Testing/Nodes.md",
     "Testing/Paths.md",
     "Testing/Graph.md",
     "Graphics/Computer Graphics.md",
-    "Graphics/Transformation.md",
-    "Graphics/Homogeneous Coordinates.md",
-    "Testing/Predicate.md"
+    "Graphics/Transformation.md"
   ]
 }
