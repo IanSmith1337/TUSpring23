@@ -4,4 +4,6 @@
 
 ## Definition
 
-An diagram of all possible routes in programming.
+A diagram of all possible routes in programming.
+
+Consists of [[Paths]].
