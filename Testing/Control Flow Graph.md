@@ -14,6 +14,6 @@ In a flow graph of a program, each [[basic block]] becomes a [[node]] and [[edge
 
 			   True	(1) - If A=10
 			    |------|
-		True	  (2) - IF B>C    
+		True	  (2) - IF B>C    False
 		|------|-------------------|
 	   (3) - A=B                  (4) - A = C
