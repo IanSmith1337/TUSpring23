@@ -65,9 +65,18 @@ $$
 
 ## Rotation (about origin)
 
-$$r(theta):$$
+CCW:
+
+$$r(\theta):$$
 
 $$ R_\theta = \begin{pmatrix}   cos(\theta) & -sin(\theta)\\   sin(\theta) & cos(\theta)  \end{pmatrix}
+$$
+
+CW: 
+
+$$r(-\theta):$$
+
+$$ R_{-\theta} = \begin{pmatrix}   cos(-\theta) & -sin(-\theta)\\   sin(-\theta) & cos(-\theta)  \end{pmatrix} = \begin{pmatrix}   cos(\theta) & sin(\theta)\\   -sin(\theta) & cos(\theta)  \end{pmatrix}
 $$
 
 ## Translation
@@ -83,3 +92,7 @@ $$
 ## Inverse
 
 Basically undoes a transform.
+
+## Composite Transform
+
+Order of transform matters. 
