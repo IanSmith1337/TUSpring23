@@ -99,4 +99,16 @@ Order of transform matters.
 
 ## Composing Transforms
 
-A sequence of Affine Transforms, composed by 
+A sequence of Affine Transforms, composed by matrix multiplication.
+
+## Rotation around a Certain point (not origin)
+
+3 steps:
+
+1. Translate to origin
+2. Rotate
+3. Translate back.  
+
+$$T(c) * R(\alpha) * T(-c)$$
+
+**NOTE: REVERSE ORDER ABOVE IS ON PURPOSE!**
