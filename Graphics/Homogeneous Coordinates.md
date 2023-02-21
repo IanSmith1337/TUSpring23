@@ -5,7 +5,7 @@
 
 ## Usage
 
-Used in [[Transformation]].
+Used in [[2D Transformation]].
 
 ## Method for Translation
 

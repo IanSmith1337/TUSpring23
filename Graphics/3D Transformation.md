@@ -1,6 +1,6 @@
 #graphics
 
-# Transformation
+# 3D Transformation
 
 ## Scale
 
@@ -65,11 +65,19 @@ $$
 
 ## Rotation (about origin)
 
-$$r(theta):$$
+CCW:
+
+$$r(\theta):$$
 
 $$ R_\theta = \begin{pmatrix}   cos(\theta) & -sin(\theta)\\   sin(\theta) & cos(\theta)  \end{pmatrix}
 $$
 
+CW: 
+
+$$r(-\theta):$$
+
+$$ R_{-\theta} = \begin{pmatrix}   cos(-\theta) & -sin(-\theta)\\   sin(-\theta) & cos(-\theta)  \end{pmatrix} = \begin{pmatrix}   -cos(\theta) & sin(-\theta)\\   sin(-\theta) & cos(-\theta)  \end{pmatrix}
+$$
 ## Translation
 
 $$ 
