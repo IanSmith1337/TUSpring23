@@ -96,3 +96,7 @@ Basically undoes a transform.
 ## Composite Transform
 
 Order of transform matters. 
+
+## Composing Transforms
+
+A sequence of Affine Transforms, composed by 
