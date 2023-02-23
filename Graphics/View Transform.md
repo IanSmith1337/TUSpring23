@@ -1,7 +1,7 @@
 
 #graphics 
 
-# View Transform
+# View [[3D Transformation|Transform]]
 
 ## Definition
 
@@ -20,3 +20,7 @@ Gaze: g-hat
 Local up: t-hat, perpendicular to gaze
 
 If all objects move together, view is the same.
+
+Camera is transformed by: 
+
+$$ M_{view} $$  
