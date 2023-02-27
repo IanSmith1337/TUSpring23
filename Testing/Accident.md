@@ -3,4 +3,6 @@
 
 # Accident
 
+## Definition
+
 Results from [[Hazards]]
