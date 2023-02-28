@@ -25,4 +25,9 @@ $$ [-1, 1]^3 $$
 
 1. Find center:
 
-$$ (l+r)\over{2} \\, $$
+$$\frac{l+r}{2}, \frac{t+b}{2}, \frac{f+n}{2}$$
+
+2. Transform matrix:
+
+$$ T = \begin{pmatrix}   1 & 0 & 0 & -\frac{l+r}{2}\\ 0 & 1 & 0 & -\frac{t+b}{2}\\   0 & 0 & 1 & -\frac{f+n}{2}\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
