@@ -8,6 +8,6 @@
 
 ## Types
 
-Orthographic
+[[Orthographic]]
 
 Perspective
