@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Test Adequacy.md",
+                "file": "Testing/Defect Testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Test Adequacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Test Adequacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testing/Test Adequacy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,8 +213,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e514d7f10043132",
+  "active": "24a6d18a1c4fd8b6",
   "lastOpenFiles": [
+    "Testing/Defect Testing.md",
     "Testing/Test Adequacy.md",
     "WebDev/MERN Stack.md",
     "Graphics/Orthographic.md",
@@ -243,7 +240,6 @@
     "Testing/Paths.md",
     "Testing/Oracle.md",
     "Testing/Length.md",
-    "Testing/Nodes.md",
-    "Testing/Laws of SE.md"
+    "Testing/Nodes.md"
   ]
 }
