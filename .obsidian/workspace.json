@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee5c6f76895b93ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev/MERN Stack.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Orthographic.md",
+                "file": "WebDev/MERN Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Orthographic.md",
+                "file": "WebDev/MERN Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Orthographic.md"
+                "file": "WebDev/MERN Stack.md"
               }
             }
           }
@@ -191,10 +204,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f706a222c4dcec9d",
+  "active": "ee5c6f76895b93ec",
   "lastOpenFiles": [
-    "Graphics/3D Transformation.md",
     "Graphics/Orthographic.md",
+    "WebDev/MERN Stack.md",
+    "Graphics/3D Transformation.md",
     "Graphics/View Transform.md",
     "Graphics/2D Transformation.md",
     "Graphics/Projection Transformation.md",
@@ -217,7 +231,6 @@
     "Testing/Length.md",
     "Testing/Nodes.md",
     "Testing/Laws of SE.md",
-    "Testing/Hazards.md",
-    "Testing/Graph.md"
+    "Testing/Hazards.md"
   ]
 }
