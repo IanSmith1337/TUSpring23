@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/MERN Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/MERN Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WebDev/MERN Stack.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,10 +200,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee5c6f76895b93ec",
+  "active": "24a6d18a1c4fd8b6",
   "lastOpenFiles": [
-    "Graphics/Orthographic.md",
     "WebDev/MERN Stack.md",
+    "Graphics/Orthographic.md",
     "Graphics/3D Transformation.md",
     "Graphics/View Transform.md",
     "Graphics/2D Transformation.md",
