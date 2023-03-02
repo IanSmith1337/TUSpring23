@@ -22,7 +22,7 @@ $$ \begin{pmatrix}   2(1) & 0 & 0  \\ 0 & 2(1) & 0 \\   0 & 0 & 1 \end{pmatrix} 
 
 - Add Translate:
 
-$$ \begin{pmatrix}   2(0) & 0 & -1  \\ 0 & 2(0) & 0 \\   0 & 0 & 1 \end{pmatrix} $$
+$$ \begin{pmatrix}   2(1) & 0 & -1  \\ 0 & 2(1) & 0 \\   0 & 0 & 1 \end{pmatrix} $$
 
 - Result:
 
