@@ -17,5 +17,5 @@ $$
 
 ## Perspective Projection Matrix
 
-$$ \begin{pmatrix}   n & 0 & 0 & 0 \\ 0 & n & 0 & 0\\   0 & 0 & n+f & -nf\\ 0 & 0 & 1 & 0  \end{pmatrix} \begin{pmatrix}   n & 0 & 0 & 0 \\ 0 & n & 0 & 0\\   0 & 0 & n+f & -nf\\ 0 & 0 & 1 & 0  \end{pmatrix}
+$$ M_{ortho} \bullet \begin{pmatrix}   n & 0 & 0 & 0 \\ 0 & n & 0 & 0\\   0 & 0 & n+f & -nf\\ 0 & 0 & 1 & 0  \end{pmatrix}
 $$
