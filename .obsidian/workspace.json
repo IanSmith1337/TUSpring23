@@ -11,8 +11,13 @@
             "id": "5a4612a192372d04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Paths.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing/Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testing/Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testing/Paths.md"
+              }
             }
           }
         ]
