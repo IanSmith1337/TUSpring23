@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "e8d6093ec0c5486a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Modified Condition Decision Coverage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5cb8c1cda7d14a6d",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Decision Coverage.md",
+                "file": "Testing/Modified Condition Decision Coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Decision Coverage.md",
+                "file": "Testing/Modified Condition Decision Coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Decision Coverage.md"
+                "file": "Testing/Modified Condition Decision Coverage.md"
               }
             }
           }
@@ -204,10 +217,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b12d125309b1df5",
+  "active": "e8d6093ec0c5486a",
   "lastOpenFiles": [
-    "Testing/Condition Coverage.md",
     "Testing/Decision Coverage.md",
+    "Testing/Modified Condition Decision Coverage.md",
+    "Testing/Condition Coverage.md",
     "Path Coverage.md",
     "Testing/Paths.md",
     "Graphics/Perspective.md",
@@ -230,7 +244,6 @@
     "Testing/Stub.md",
     "Testing/Static.md",
     "Testing/Software Testing.md",
-    "Testing/Scaffolding.md",
-    "Testing/RIP Model.md"
+    "Testing/Scaffolding.md"
   ]
 }
