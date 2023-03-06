@@ -46,10 +46,6 @@ $$ (-1, 0), (1, 2), (9, 4) $$
 
 ## Problem 2
 
-### Translation Matrix
+### Result
 
-$$ \begin{pmatrix}   1 & 0 & 1  \\ 0 & 1 & 1\\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   cos(-30) & -sin(-30) & 0 \\ sin(-30) & cos(-30) & 0 \\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   1 & 0 & -1  \\ 0 & 1 & -1\\   0 & 0 & 1 \end{pmatrix}\bullet\begin{pmatrix}   0 & 1 & 5  \\ 0 & 1 & 2\\   0 & 0 & 1 \end{pmatrix} $$
-
-- Result:
-
-$$ \begin{pmatrix}   1 & 0 & 1  \\ 0 & 1 & 1\\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   cos(-30) & -sin(-30) & 0 \\ sin(-30) & cos(-30) & 0 \\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   1 & 0 & -1  \\ 0 & 1 & -1\\   0 & 0 & 1 \end{pmatrix}\bullet\begin{pmatrix}   0 & 1 & 5  \\ 0 & 1 & 2\\   0 & 0 & 1 \end{pmatrix} $$
+$$ \begin{pmatrix}   1 & 0 & 5  \\ 0 & 1 & 10\\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   1 & 0 & 1  \\ 0 & 1 & 1\\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   cos(-30) & -sin(-30) & 0 \\ sin(-30) & cos(-30) & 0 \\   0 & 0 & 1 \end{pmatrix} \bullet \begin{pmatrix}   1 & 0 & -1  \\ 0 & 1 & -1\\   0 & 0 & 1 \end{pmatrix}\bullet\begin{pmatrix}   0 & 1 & 2  \\ 0 & 1 & 5\\   0 & 0 & 1 \end{pmatrix} $$

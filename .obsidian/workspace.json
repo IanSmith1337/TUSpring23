@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce7bc139509b6fe4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "425907c34897c9d1",
+  "active": "ce7bc139509b6fe4",
   "lastOpenFiles": [
     "Graphics/Linear Algebra Review.md",
     "Graphics/Practice.md",
