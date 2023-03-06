@@ -4,7 +4,7 @@
 
 ## Definition
 
-Percentage of coverage of all possible outcomes of each and every Boolean condition.
+Percentage of [[Test Case]] coverage of all possible outcomes of each and every Boolean condition.
 
 ## Example
 
