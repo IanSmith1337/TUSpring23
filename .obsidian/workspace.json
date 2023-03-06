@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Paths.md",
+                "file": "Path Coverage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b12d125309b1df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Decision Cover.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Paths.md",
+                "file": "Testing/Decision Cover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Paths.md",
+                "file": "Testing/Decision Cover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Paths.md"
+                "file": "Testing/Decision Cover.md"
               }
             }
           }
@@ -177,8 +191,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a4612a192372d04",
+  "active": "7b12d125309b1df5",
   "lastOpenFiles": [
+    "Path Coverage.md",
+    "Testing/Decision Cover.md",
+    "Testing/Paths.md",
     "Graphics/Perspective.md",
     "Graphics/Practice.md",
     "Graphics/Linear Algebra Review.md",
@@ -201,9 +218,6 @@
     "Testing/Software Testing.md",
     "Testing/Scaffolding.md",
     "Testing/RIP Model.md",
-    "Testing/Refactoring.md",
-    "Testing/Predicate.md",
-    "Testing/Paths.md",
-    "Testing/Oracle.md"
+    "Testing/Refactoring.md"
   ]
 }

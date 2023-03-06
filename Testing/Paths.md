@@ -6,4 +6,4 @@
 
 A sequence of [[Nodes]].
 
-Base unit of 
+Base unit of [[Path Coverage]].
