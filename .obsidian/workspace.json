@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Decision Cover.md",
+                "file": "Testing/Decision Coverage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Condition Coverage.md",
+                "file": "Testing/Decision Coverage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Condition Coverage.md",
+                "file": "Testing/Decision Coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Condition Coverage.md",
+                "file": "Testing/Decision Coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Condition Coverage.md"
+                "file": "Testing/Decision Coverage.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "5cb8c1cda7d14a6d",
   "lastOpenFiles": [
-    "Testing/Decision Cover.md",
     "Testing/Condition Coverage.md",
+    "Testing/Decision Coverage.md",
     "Path Coverage.md",
     "Testing/Paths.md",
     "Graphics/Perspective.md",
