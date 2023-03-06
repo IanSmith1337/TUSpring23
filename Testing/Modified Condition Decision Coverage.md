@@ -2,4 +2,4 @@
 
 # Modified Condition Decision Coverage
 
-## Degin
+## Definitin
