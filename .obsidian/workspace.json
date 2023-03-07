@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecb02380a358a5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Triangles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Screen.md",
+                "file": "Graphics/Triangles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Screen.md",
+                "file": "Graphics/Triangles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Screen.md"
+                "file": "Graphics/Triangles.md"
               }
             }
           }
@@ -177,10 +191,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "475ea33cdbb4475f",
+  "active": "ecb02380a358a5e9",
   "lastOpenFiles": [
-    "Graphics/Pixel.md",
     "Graphics/Screen.md",
+    "Graphics/Triangles.md",
+    "Graphics/Pixel.md",
     "Graphics/Practice.md",
     "Testing/Path Coverage.md",
     "Testing/Predicate.md",
@@ -203,7 +218,6 @@
     "Graphics/Homogeneous Coordinates.md",
     "Testing/Accident.md",
     "Testing/Verification.md",
-    "Testing/Validation and Verification Process.md",
-    "Testing/Validation.md"
+    "Testing/Validation and Verification Process.md"
   ]
 }
