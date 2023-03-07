@@ -12,4 +12,6 @@ Defines the screen space. Covers range (0, 0) to (width, height)
 
 Irrelevant to Z. 
 
-### Transform 
+### Transform in XY plane
+
+(-1, 1)
