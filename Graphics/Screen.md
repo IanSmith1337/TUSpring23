@@ -9,3 +9,7 @@ An array of [[Pixel|pixels]], whose size is resolution. Typical kind of [[Raster
 ## Canonical Cube
 
 Defines the screen space. Covers range (0, 0) to (width, height)
+
+Irrelevant to Z. 
+
+### Transform 
