@@ -4,4 +4,4 @@
 
 ## Definition
 
-An array of pixels, whose size is the resolution. Typical kind of raster display.
+An array of [[Pixel|pixels]], whose size is resolution. Typical kind of [[Raster]] display.

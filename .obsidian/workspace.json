@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path Coverage.md",
+                "file": "Testing/Path Coverage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Screen.md",
+                "file": "Graphics/Rasterization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphics/Screen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -230,13 +226,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d4946bf7b814717",
+  "active": "24a6d18a1c4fd8b6",
   "lastOpenFiles": [
-    "Testing/Modified Condition Decision Coverage.md",
+    "Graphics/Rasterization.md",
+    "Graphics/Raster.md",
     "Graphics/Screen.md",
+    "Graphics/Pixel.md",
+    "Testing/Modified Condition Decision Coverage.md",
     "Testing/Decision Coverage.md",
     "Testing/Condition Coverage.md",
-    "Path Coverage.md",
+    "Testing/Path Coverage.md",
     "Testing/Paths.md",
     "Graphics/Perspective.md",
     "Graphics/Practice.md",
@@ -254,9 +253,6 @@
     "Testing/Verification.md",
     "Testing/Validation and Verification Process.md",
     "Testing/Validation.md",
-    "Testing/Test Case.md",
-    "Testing/Stub.md",
-    "Testing/Static.md",
-    "Testing/Software Testing.md"
+    "Testing/Test Case.md"
   ]
 }
