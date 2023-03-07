@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "651428c967c505fe",
+        "id": "67bc060801eea570",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4612a192372d04",
+            "id": "475ea33cdbb4475f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Path Coverage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b12d125309b1df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Decision Coverage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8d6093ec0c5486a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Modified Condition Decision Coverage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d4946bf7b814717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Rasterization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb8c1cda7d14a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Condition Coverage.md",
+                "file": "Graphics/Screen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphics/Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphics/Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphics/Screen.md"
+              }
             }
           }
         ]
@@ -226,19 +177,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "24a6d18a1c4fd8b6",
+  "active": "475ea33cdbb4475f",
   "lastOpenFiles": [
+    "Graphics/Pixel.md",
+    "Graphics/Practice.md",
+    "Testing/Path Coverage.md",
+    "Testing/Predicate.md",
     "Graphics/Rasterization.md",
     "Graphics/Raster.md",
     "Graphics/Screen.md",
-    "Graphics/Pixel.md",
     "Testing/Modified Condition Decision Coverage.md",
     "Testing/Decision Coverage.md",
     "Testing/Condition Coverage.md",
-    "Testing/Path Coverage.md",
     "Testing/Paths.md",
     "Graphics/Perspective.md",
-    "Graphics/Practice.md",
     "Graphics/Linear Algebra Review.md",
     "Graphics/Projection Transformation.md",
     "Graphics/Orthographic.md",
@@ -252,7 +204,6 @@
     "Testing/Accident.md",
     "Testing/Verification.md",
     "Testing/Validation and Verification Process.md",
-    "Testing/Validation.md",
-    "Testing/Test Case.md"
+    "Testing/Validation.md"
   ]
 }

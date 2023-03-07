@@ -1,3 +1,5 @@
+#graphics 
+
 # Practice
 
 ## Problem 1

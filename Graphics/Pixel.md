@@ -5,3 +5,4 @@
 ## Definition
 
 A square with a uniform color.
+
