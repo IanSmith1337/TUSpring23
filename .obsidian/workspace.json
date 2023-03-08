@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Triangles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Triangles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphics/Triangles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,10 +187,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ecb02380a358a5e9",
+  "active": "24a6d18a1c4fd8b6",
   "lastOpenFiles": [
-    "Graphics/Screen.md",
     "Graphics/Triangles.md",
+    "Graphics/Screen.md",
     "Graphics/Pixel.md",
     "Graphics/Practice.md",
     "Testing/Path Coverage.md",
