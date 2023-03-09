@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b88b9ce8f82a7b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Bounding Box.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Sampling.md",
+                "file": "Graphics/Bounding Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Sampling.md",
+                "file": "Graphics/Bounding Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Sampling.md"
+                "file": "Graphics/Bounding Box.md"
               }
             }
           }
@@ -177,9 +191,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4d72a6db714a37af",
+  "active": "b88b9ce8f82a7b8c",
   "lastOpenFiles": [
     "Graphics/Sampling.md",
+    "Graphics/Bounding Box.md",
     "Graphics/Triangles.md",
     "Graphics/Screen.md",
     "Graphics/Pixel.md",
@@ -203,7 +218,6 @@
     "Graphics/View Transform.md",
     "Graphics/2D Transformation.md",
     "Graphics/Homogeneous Coordinates.md",
-    "Testing/Accident.md",
-    "Testing/Verification.md"
+    "Testing/Accident.md"
   ]
 }
