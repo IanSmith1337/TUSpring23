@@ -193,6 +193,7 @@
   },
   "active": "227da2cabb1d75aa",
   "lastOpenFiles": [
+    "Artifacts.md",
     "Graphics/Aliasing.md",
     "Graphics/Anti-aliasing.md",
     "Testing/Verification.md",
@@ -218,7 +219,6 @@
     "Syllabi/Web Development Syllabus.md",
     "Syllabi/Software Testing Syllabi.md",
     "Syllabi/Graphics Syllabus.md",
-    "Graphics/View Transform.md",
-    "Graphics/Triangles.md"
+    "Graphics/View Transform.md"
   ]
 }
