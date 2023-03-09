@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "227da2cabb1d75aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Anti-aliasing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Aliasing.md",
+                "file": "Graphics/Anti-aliasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Aliasing.md",
+                "file": "Graphics/Anti-aliasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Aliasing.md"
+                "file": "Graphics/Anti-aliasing.md"
               }
             }
           }
@@ -177,10 +191,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "378505fe8a4917d5",
+  "active": "227da2cabb1d75aa",
   "lastOpenFiles": [
-    "Testing/Verification.md",
     "Graphics/Aliasing.md",
+    "Graphics/Anti-aliasing.md",
+    "Testing/Verification.md",
     "Testing/Hazards.md",
     "Testing/Fault.md",
     "Testing/Failure.md",
@@ -204,7 +219,6 @@
     "Syllabi/Software Testing Syllabi.md",
     "Syllabi/Graphics Syllabus.md",
     "Graphics/View Transform.md",
-    "Graphics/Triangles.md",
-    "Graphics/Splines.md"
+    "Graphics/Triangles.md"
   ]
 }
