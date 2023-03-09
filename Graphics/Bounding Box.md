@@ -5,5 +5,5 @@
 
 ## Definition
 
-left: Min(x1, x2, x3)
+left: Minx(x1, x2, x3), miny(y1, y2, y3)
 
