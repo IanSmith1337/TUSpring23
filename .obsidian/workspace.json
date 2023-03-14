@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f54a5d00422a03ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Filtering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Fourier Transform.md",
+                "file": "Graphics/Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Fourier Transform.md",
+                "file": "Graphics/Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Fourier Transform.md"
+                "file": "Graphics/Filtering.md"
               }
             }
           }
@@ -177,9 +191,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0881b16c79350f92",
+  "active": "f54a5d00422a03ac",
   "lastOpenFiles": [
     "Graphics/Fourier Transform.md",
+    "Graphics/Filtering.md",
     "Graphics/2D Transformation.md",
     "Testing/Practice.md",
     "Testing/def-clear Path.md",
@@ -204,7 +219,6 @@
     "Testing/Clause.md",
     "Testing/Bug.md",
     "Testing/Basic Block.md",
-    "Testing/Accident.md",
     "Images/CFG_E1.drawio(1).png"
   ]
 }
