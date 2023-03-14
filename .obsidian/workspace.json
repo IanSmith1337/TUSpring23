@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a51be448c2c94d2b",
+        "id": "2bc6bc0112504cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "f48ecfd27127cbbe",
+            "id": "0881b16c79350f92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Graphics/Fourier Transform.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphics/Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphics/Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphics/Fourier Transform.md"
+              }
             }
           }
         ]
@@ -168,8 +177,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f48ecfd27127cbbe",
+  "active": "0881b16c79350f92",
   "lastOpenFiles": [
+    "Graphics/Fourier Transform.md",
+    "Graphics/2D Transformation.md",
     "Testing/Practice.md",
     "Testing/def-clear Path.md",
     "Testing/Condition Coverage.md",
@@ -194,8 +205,6 @@
     "Testing/Bug.md",
     "Testing/Basic Block.md",
     "Testing/Accident.md",
-    "Images/CFG_E1.drawio(1).png",
-    "Syllabi/Web Development Syllabus.md",
-    "Syllabi/Software Testing Syllabi.md"
+    "Images/CFG_E1.drawio(1).png"
   ]
 }
