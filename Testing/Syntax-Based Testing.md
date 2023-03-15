@@ -10,4 +10,8 @@ BNF for compilers
 
 To modify programs
 
-## 
+## Components
+
+Operators modify ground string (program under test), which create mutant programs
+
+Mutants must compile correctly, and are in themselves, not tests.
