@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/def-clear Path.md",
+                "file": "Testing/Syntax-Based Testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/def-clear Path.md",
+                "file": "Testing/Syntax-Based Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/def-clear Path.md",
+                "file": "Testing/Syntax-Based Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/def-clear Path.md"
+                "file": "Testing/Syntax-Based Testing.md"
               }
             }
           }
@@ -179,9 +179,9 @@
   },
   "active": "79bde4341bbc3ade",
   "lastOpenFiles": [
+    "Testing/def-clear Path.md",
     "Testing/Basic Block.md",
     "Testing/Syntax-Based Testing.md",
-    "Testing/def-clear Path.md",
     "Graphics/Filtering.md",
     "Graphics/Fourier Transform.md",
     "Graphics/2D Transformation.md",
