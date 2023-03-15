@@ -2,5 +2,7 @@
 
 # Syntax-Based Testing
 
-## Definition
+## Types
+
+BNF for compilers
 
