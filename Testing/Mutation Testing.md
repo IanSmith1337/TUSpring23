@@ -9,4 +9,4 @@ Style of testing to find code mutations that are valid and whose goal is to elim
 
 ## Goal
 
-If a software contains a [[fault]], there will be a set of [[mutants]] such that they can only be killed by a [[Test Case]] that detects this fault.
+If a software contains a [[fault]], there will be a set of [[mutants]] such that they can only be killed by a [[Test Case]] that detects this [[fault]].
