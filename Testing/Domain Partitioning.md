@@ -3,5 +3,3 @@
 # Domain Partitioning
 
 ## Definition
-
-[]
