@@ -2,3 +2,6 @@
 
 # Domain Partitioning
 
+## Definition
+
+[]
