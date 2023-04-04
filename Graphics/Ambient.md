@@ -3,4 +3,4 @@
 
 # Ambient
 
-Shading doesn't depend on anyth
+Shading doesn't depend on anything.
