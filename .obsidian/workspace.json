@@ -19,126 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "33c69281e3cebb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Lambertian.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a0cf5c768678cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Specular (Blinn-Phong).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514020cfe2245e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Ambient.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c403a1d3371ba06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Blinn-Phong Reflection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2b69b96fcea94c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Shading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31a1f80eca181c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Flat Shading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d6af0307d3e293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Gouraud Shading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff748f628c71e6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Phong Shading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f946c5a61dcc6f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Shading Frequencies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Shading Frequencies.md",
+                "file": "Graphics/2D Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Shading Frequencies.md",
+                "file": "Graphics/2D Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Shading Frequencies.md"
+                "file": "Graphics/2D Transformation.md"
               }
             }
           }
@@ -295,10 +177,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f946c5a61dcc6f5",
+  "active": "f6f0cf6bc66b693b",
   "lastOpenFiles": [
-    "Graphics/Phong Shading.md",
     "Graphics/Shading Frequencies.md",
+    "Graphics/Phong Shading.md",
     "Graphics/Gouraud Shading.md",
     "Graphics/Flat Shading.md",
     "Graphics/Shading.md",
