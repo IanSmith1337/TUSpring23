@@ -451,4 +451,20 @@ How many samples should be taken for each tri.
 
 ![[Pasted image 20230426173454.png]]
 
+# Convex Hull
 
+![[Pasted image 20230426173638.png]]
+
+# Piecewise Bezier
+
+![[Pasted image 20230426173657.png]]
+
+![[Pasted image 20230426173715.png]]
+
+# Mesh Ops
+
+
+
+# Loop Subdivision
+
+![[Pasted image 20230426173904.png]]
