@@ -4,7 +4,7 @@
 (Divide (x, y, z) by w). 
 P2 is differing.
 
-P0: $$\begin{pmatrix}  3 & 4\\ 2 & 0.5 \end{pmatrix} = /beig3/0.5 & 4/0.5\\ 2/0.5 & 0.5/0.5$$
+P0: $$\begin{pmatrix}  3 & 4\\ 2 & 0.5 \end{pmatrix} = /begin{pm3/0.5 & 4/0.5\\ 2/0.5 & 0.5/0.5$$
 
  => 6, 8, 4, 1
 
