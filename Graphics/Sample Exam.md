@@ -94,7 +94,12 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ## 4.1
 
-Degree = 4
+![[Pasted image 20230426163005.png]]
+
+![[Pasted image 20230426163014.png]]  
+
+Example Degree = 4
+
+**Count the LINE SEGMENTS**
 
 ![[Pasted image 20230426162914.png]]
-
