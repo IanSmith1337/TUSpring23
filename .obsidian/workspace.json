@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Sample Exam.md",
+                "file": "Graphics/Perspective.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "projection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Sample Exam.md",
+                "file": "Graphics/Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Sample Exam.md",
+                "file": "Graphics/Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Sample Exam.md"
+                "file": "Graphics/Perspective.md"
               }
             }
           }
@@ -201,13 +202,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "1d61f49006ab4816",
   "lastOpenFiles": [
-    "Graphics/3D Transformation.md",
     "Graphics/Sample Exam.md",
+    "Graphics/Homogeneous Coordinates.md",
+    "Graphics/3D Transformation.md",
     "Images/ExtrodrinaryMesh.jpg",
     "Graphics/2D Transformation.md",
     "Images/Pasted image 20230426163837.png",
