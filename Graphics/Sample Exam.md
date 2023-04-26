@@ -1,6 +1,6 @@
 # Sample Exam
 
-## 1.1
+## 1.1 Homogeneous Coordinates
 
 P0, P1, and P3 are the same.  
 (Divide (x, y, z) by w).  
@@ -14,7 +14,7 @@ $$\begin{pmatrix}  3\\ 4\\ 2\\ 0.5 \end{pmatrix} = \begin{pmatrix} 3/0.5\\ 4/0.5
 
 $$\begin{pmatrix}  24\\ 32\\ 16\\ 4 \end{pmatrix} = \begin{pmatrix} 24/4\\ 32/4\\ 16/4\\ 4/4 \end{pmatrix} = \begin{pmatrix}  6\\ 8\\ 4\\ 1 \end{pmatrix}$$
 
-1.2: 
+## 1.2 Transforms
 
 ![[Pasted image 20230426153643.png]]
 
@@ -30,7 +30,7 @@ $$T(-c) * R(90) * T(d)$$
 
 $$\begin{pmatrix}  1 & 0 & -(c_x)\\ 0 & 1 & -(c_y)\\ 0& 0 & 1 \end{pmatrix} * \begin{pmatrix}   cos(90°) & -sin(90°) & 0\\   sin(90°) & cos(90°)  & 0\\ 0 & 0 & 1\end{pmatrix} * \begin{pmatrix}  1 & 0 & d_x\\ 0 & 1 & d_y\\ 0& 0 & 1 \end{pmatrix} $$
 
-## 2.1
+## 2.1 Barycentric Coordinates
 
 Determines if a point is within a triangle. 
 
@@ -52,7 +52,7 @@ $$
 
 3 parts of CG that use this: Color, Shading, Texture Mapping.
 
-## 2.2
+## 2.2 Painters and Z-Buffer
 
 Painters algorithm can have unresolved depth order with overlapping objects 
 
@@ -62,7 +62,7 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426155743.png]]
 
-## 3.1
+## 3.1 Shading and Blinn-Phong
 
 ![[Pasted image 20230426161317.png]]
 
@@ -76,7 +76,7 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426161158.png]]
 
-## 3.2
+## 3.2 Artifacts and Texture Anti-aliasing
 
 ![[Pasted image 20230426162007.png]]
 
@@ -92,7 +92,7 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426162621.png]]
 
-## 4.1
+## 4.1 Bezier Curves
 
 ![[Pasted image 20230426163005.png]]
 
@@ -118,7 +118,7 @@ Example Degree = 4
 
 ![[Pasted image 20230426163343.png]]
 
-## 4.2
+## 4.2 Catmull-Clark Subdivision
 
 ![[Pasted image 20230426163808.png]]
 
@@ -138,7 +138,7 @@ All quadfaces.
 
 # Extra Notes
 
-## 2D Transformation
+# 2D Transformation
 
 ## Scale
 
@@ -249,3 +249,25 @@ $$T(c) * R(\alpha) * T(-c)$$
 
 **NOTE: REVERSE ORDER ABOVE IS ON PURPOSE!**
 
+# 3D Transformation
+
+## Scale
+
+$$ S = \begin{pmatrix}   S_x & 0 & 0 & 0\\ 0 & S_y & 0 & 0\\   0 & 0 & S_z & 0\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
+
+## Translation
+
+$$ T = \begin{pmatrix}   1 & 0 & 0 & T_x\\ 0 & 1 & 0 & T_y\\   0 & 0 & 1 & T_z\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
+
+## Rotation (about origin)
+
+$$ R_x(\alpha) = \begin{pmatrix}   1 & 0 & 0 & 0\\ 0 & cos(\alpha) & -sin(\alpha) & 0\\   0 & sin(\alpha) & cos(\alpha) & 0\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
+
+$$ R_y(\alpha) = \begin{pmatrix}   cos(\alpha) & 0 & sin(\alpha) & 0\\ 0 & 1 & 0 & 0\\   -sin(\alpha) & 0 & cos(\alpha) & 0\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
+
+$$ R_z(\alpha) = \begin{pmatrix}   cos(\alpha) & -sin(\alpha) & 0 & 0\\ sin(\alpha) & cos(\alpha) & 0 & 0\\ 0 & 0 & 1 & 0\\ 0 & 0 & 0 & 1  \end{pmatrix}
+$$
