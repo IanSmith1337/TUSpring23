@@ -124,4 +124,10 @@ Example Degree = 4
 
 ![[Pasted image 20230426163825.png]]
 
+0 Extraordinary
 
+Degree 4
+
+0 Non-quad.
+
+![[Pasted image 20230426163837.png]]
