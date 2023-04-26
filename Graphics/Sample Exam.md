@@ -76,3 +76,9 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426161158.png]]
 
+## 3.2
+
+![[Pasted image 20230426162007.png]]
+
+![[Pasted image 20230426162021.png]]
+
