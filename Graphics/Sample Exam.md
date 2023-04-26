@@ -468,3 +468,7 @@ How many samples should be taken for each tri.
 # Loop Subdivision
 
 ![[Pasted image 20230426173904.png]]
+
+# Simplification by Collapse
+
+![[Pasted image 20230426174034.png]]
