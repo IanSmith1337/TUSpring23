@@ -92,4 +92,9 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426162621.png]]
 
-4.1
+## 4.1
+
+Degree = 4
+
+![[Pasted image 20230426162914.png]]
+
