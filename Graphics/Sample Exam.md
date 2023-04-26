@@ -103,3 +103,20 @@ Example Degree = 4
 **Count the LINE SEGMENTS**
 
 ![[Pasted image 20230426162914.png]]
+
+![[Pasted image 20230426163239.png]]
+
+![[Pasted image 20230426163248.png]]
+
+![[Pasted image 20230426163259.png]]
+
+![[Pasted image 20230426163309.png]]
+
+![[Pasted image 20230426163320.png]]
+
+![[Pasted image 20230426163332.png]]
+
+![[Pasted image 20230426163343.png]]
+
+## 4.2
+
