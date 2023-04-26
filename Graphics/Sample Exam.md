@@ -32,7 +32,21 @@ $$\begin{pmatrix}  1 & 0 & -(c_x)\\ 0 & 1 & -(c_y)\\ 0& 0 & 1 \end{pmatrix} * \b
 
 ## 2.1
 
-Determines if a point is within a triangle using $$P=uA+vB+wC$$
+Determines if a point is within a triangle. 
+
+Position of the point:
+
+$$P=uA+vB+wC$$  
+
+u, v, w coordinates:
+
+$$ \begin{array}{l}
+u = {\dfrac{TriangleCAP_{Area}}{TriangleABC_{Area}}}\\
+v = {\dfrac{TriangleABP_{Area}}{TriangleABC_{Area}}}\\
+w ={\dfrac{TriangleBCP_{Area}}{TriangleABC_{Area}}}\\
+\end{array}
+$$
+
 
 ![[Pasted image 20230426160139.png]]
 
@@ -45,3 +59,4 @@ Painters algorithm can have unresolved depth order with overlapping objects
 Z-Buffer fixes this by checking each pixel and storing the current minimum z-value (which is closest to the camera).
 
 ![[Pasted image 20230426155743.png]]
+
