@@ -138,7 +138,7 @@ All quadfaces.
 
 ![[ExtrodrinaryMesh.jpg]]
 
-# Extra Notes
+# Extra Topics
 
 # Dot Product
 
@@ -290,7 +290,7 @@ $$
 
 ## Usage
 
-Used in [[2D Transformation]].
+Used in 2D Transformation.
 
 ## Method for Translation
 
