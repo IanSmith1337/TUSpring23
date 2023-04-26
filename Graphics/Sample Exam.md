@@ -134,6 +134,8 @@ All quadfaces.
 
 ![[Pasted image 20230426163837.png]]
 
+![[ExtrodrinaryMesh.jpg]]
+
 # Extra Notes
 
 ## 2D Transformation
