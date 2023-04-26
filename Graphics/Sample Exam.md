@@ -64,4 +64,12 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ## 3.1
 
-Parameters: Ambient
+![[Pasted image 20230426161317.png]]
+
+![[Pasted image 20230426161337.png]]
+
+![[Pasted image 20230426161412.png]]
+
+
+![[Pasted image 20230426161158.png]]
+
