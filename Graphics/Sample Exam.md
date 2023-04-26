@@ -47,8 +47,10 @@ w ={\dfrac{TriangleBCP_{Area}}{TriangleABC_{Area}}}\\
 \end{array}
 $$
 
-
 ![[Pasted image 20230426160139.png]]
+
+
+3 parts of CG that use this: Color, Shading, Texture Mapping.
 
 ## 2.2
 
@@ -59,4 +61,3 @@ Painters algorithm can have unresolved depth order with overlapping objects
 Z-Buffer fixes this by checking each pixel and storing the current minimum z-value (which is closest to the camera).
 
 ![[Pasted image 20230426155743.png]]
-
