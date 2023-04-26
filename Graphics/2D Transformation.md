@@ -4,7 +4,7 @@
 
 ## Scale
 
-S(x):
+S(x, y):
 
 $$ 
 x' = sx
@@ -13,9 +13,6 @@ $$
 $$ 
 y' = sy
 $$
-
-S(x, y):
-
 $$\begin{pmatrix}   x'\\   y'   \end{pmatrix} = \begin{pmatrix}   s_x & 0\\   0 & s_y  \end{pmatrix} \begin{pmatrix}   x\\   y   \end{pmatrix}
 $$
 
