@@ -120,3 +120,8 @@ Example Degree = 4
 
 ## 4.2
 
+![[Pasted image 20230426163808.png]]
+
+![[Pasted image 20230426163825.png]]
+
+
