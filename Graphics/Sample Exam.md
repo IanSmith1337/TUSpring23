@@ -32,7 +32,9 @@ $$\begin{pmatrix}  1 & 0 & -(c_x)\\ 0 & 1 & -(c_y)\\ 0& 0 & 1 \end{pmatrix} * \b
 
 ## 2.1
 
-Determines if a point is within a triangle using 
+Determines if a point is within a triangle using $$P=uA+vB+wC$$
+
+![[Pasted image 20230426160139.png]]
 
 ## 2.2
 
