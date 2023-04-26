@@ -19,6 +19,6 @@ $$\begin{pmatrix}  24\\ 32\\ 16\\ 4 \end{pmatrix} = \begin{pmatrix} 24/4\\ 32/4\
 ![[Pasted image 20230426153643.png]]
 
 Normal: $$T(d) * R(90) * T(-c)$$
-$$T = \begin{pmatrix}   1 & 0 & 0 & d_x\\ 0 & 1 & 0 & _y\\   0 & 0 & 1 & T_z\\ 0 & 0 & 0 & 1  \end{pmatrix}$$
+$$T = \begin{pmatrix}  0 &   \end{pmatrix} * \begin{pmatrix}   cos(\theta) & -sin(\theta) & 0\\   sin(\theta) & cos(\theta)  & 0\\ 0 & 0 & 1\end{pmatrix}$$
   
 Inverse: $$T(-c) * R(90) * T(d)$$
