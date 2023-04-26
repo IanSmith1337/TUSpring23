@@ -124,12 +124,12 @@ Example Degree = 4
 
 ![[Pasted image 20230426163825.png]]
 
-4 Extraordinary
+4 extraordinary.
 
 BL TR = 5
 
 TR BR = 3
 
-0 Non-quad.
+All quadfaces.
 
 ![[Pasted image 20230426163837.png]]
