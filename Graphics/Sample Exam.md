@@ -463,7 +463,7 @@ How many samples should be taken for each tri.
 
 # Mesh Ops
 
-
+![[Pasted image 20230426173933.png]]
 
 # Loop Subdivision
 
