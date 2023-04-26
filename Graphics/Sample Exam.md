@@ -124,9 +124,11 @@ Example Degree = 4
 
 ![[Pasted image 20230426163825.png]]
 
-0 Extraordinary
+4 Extraordinary
 
-Degree 4
+BL TR = 5
+
+TR BR = 3
 
 0 Non-quad.
 
