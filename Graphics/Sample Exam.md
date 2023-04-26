@@ -414,5 +414,27 @@ How many samples should be taken for each tri.
 
 ![[Pasted image 20230426173018.png]]
 
+![[Pasted image 20230426173031.png]]
+
+# Bilinear Interpolation
+
+![[Pasted image 20230426173129.png]]
+
+
+![[Pasted image 20230426173140.png]]
+
+![[Pasted image 20230426173151.png]]
+
+![[Pasted image 20230426173204.png]]
+
+![[Pasted image 20230426173214.png]]
+
+![[Pasted image 20230426173227.png]]
+
+# Environment Mapping and Lighting
+
+![[Pasted image 20230426173306.png]]
+
+![[Pasted image 20230426173325.png]]
 
 
