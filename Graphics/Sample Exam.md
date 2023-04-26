@@ -66,6 +66,8 @@ Z-Buffer fixes this by checking each pixel and storing the current minimum z-val
 
 ![[Pasted image 20230426161317.png]]
 
+![[Pasted image 20230426172614.png]]
+
 ![[Pasted image 20230426161709.png]]
 
 ![[Pasted image 20230426161337.png]]
@@ -377,4 +379,16 @@ top-right: max_x(x1, x2, x3), max_y(y1, y2, y3)
 ## Method
 
 Move right as far as possible, then move up one pixel from leftmost point still inside of triangle.
+
+# [[Shading]] Frequencies
+
+## Definition
+
+How many samples should be taken for each tri.
+
+![[Pasted image 20230426172708.png]]
+
+![[Pasted image 20230426172719.png]]
+
+![[Pasted image 20230426172729.png]]
 
