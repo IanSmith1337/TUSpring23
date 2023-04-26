@@ -392,3 +392,27 @@ How many samples should be taken for each tri.
 
 ![[Pasted image 20230426172729.png]]
 
+![[Pasted image 20230426172739.png]]
+
+# Graphics Pipeline
+
+![[Pasted image 20230426172804.png]]
+
+![[Pasted image 20230426172817.png]]
+
+![[Pasted image 20230426172826.png]]
+
+![[Pasted image 20230426172837.png]]
+
+![[Pasted image 20230426172848.png]]
+
+![[Pasted image 20230426172900.png]]
+
+# Texture Mapping
+
+![[Pasted image 20230426173006.png]]
+
+![[Pasted image 20230426173018.png]]
+
+
+
