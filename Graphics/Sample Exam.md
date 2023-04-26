@@ -437,4 +437,18 @@ How many samples should be taken for each tri.
 
 ![[Pasted image 20230426173325.png]]
 
+# Bump Mapping
+
+![[Pasted image 20230426173353.png]]
+
+![[Pasted image 20230426173405.png]]
+
+# Displacement Mapping
+
+![[Pasted image 20230426173421.png]]
+
+# Implicit/Explicit Geo
+
+![[Pasted image 20230426173454.png]]
+
 
