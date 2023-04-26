@@ -194,6 +194,9 @@
   },
   "active": "1d61f49006ab4816",
   "lastOpenFiles": [
+    "Pasted image 20230426172350.png",
+    "Pasted image 20230426172332.png",
+    "Pasted image 20230426172158.png",
     "Graphics/Sampling.md",
     "Graphics/2D Transformation.md",
     "Graphics/Splines.md",
@@ -216,8 +219,6 @@
     "Images/ExtrodrinaryMesh.jpg",
     "Images/Pasted image 20230426163837.png",
     "Images/Pasted image 20230426163825.png",
-    "Images/Pasted image 20230426163808.png",
-    "Images/Pasted image 20230426163343.png",
     "Graphics/Blinn-Phong Reflection.md",
     "Testing/BRO ICE.md",
     "Graphics/Shading Frequencies.md",
@@ -228,7 +229,6 @@
     "Graphics/Ambient.md",
     "Graphics/Specular (Blinn-Phong).md",
     "Graphics/Lambertian.md",
-    "Testing/Mutants.md",
-    "Testing/Domain Partitioning.md"
+    "Testing/Mutants.md"
   ]
 }

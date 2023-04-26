@@ -233,6 +233,10 @@ $$
 y' = t_y+y
 $$
 
+## Affine
+
+![[Pasted image 20230426172350.png]]
+
 ## Inverse
 
 Basically undoes a transform.
@@ -332,6 +336,12 @@ $$\frac{l+r}{2}, \frac{t+b}{2}, \frac{f+n}{2}$$
 ## Final Matrix
 
 ![[Pasted image 20230426171542.png]]
+
+# MVP
+
+~~most valuable person~~
+
+![[Pasted image 20230426172158.png]]
 
 # Rasterization
 
