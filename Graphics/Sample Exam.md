@@ -22,7 +22,11 @@ Normal:
 
 $$T(d) * R(90°) * T(-c)$$
 
-$$\begin{pmatrix}  1 & 0 & d_x\\ 0 & 1 & d_y\\ 0& 0 & 1 \end{pmatrix} * \begin{pmatrix}   cos(90°) & -sin(90°) & 0\\   sin(90°) & cos(90°)  & 0\\ 0 & 0 & 1\end{pmatrix} * \begin{pmatrix}  1 & 0 & -(c_x)\\ 0 & 1 & -(c_y)\\ 0& 0 & 1 \end{pmatrix} = \begin{pmatrix}   2+cos(90°) & -sin(90°) & d_x - c_x\\   sin(90°) & 2+cos(90°)  & d_\\ 0 & 0 & 1\end{pmatrix}$$
+$$\begin{pmatrix}  1 & 0 & d_x\\ 0 & 1 & d_y\\ 0& 0 & 1 \end{pmatrix} * \begin{pmatrix}   cos(90°) & -sin(90°) & 0\\   sin(90°) & cos(90°)  & 0\\ 0 & 0 & 1\end{pmatrix} * \begin{pmatrix}  1 & 0 & -(c_x)\\ 0 & 1 & -(c_y)\\ 0& 0 & 1 \end{pmatrix}$$
+
+Result:
+
+$$ \begin{pmatrix}   2 & -1 & d_x - c_x\\   1 & 2  & d_y-c_y\\ 0 & 0 & 3\end{pmatrix} $$
 
 Inverse: 
 
