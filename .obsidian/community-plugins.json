@@ -3,5 +3,6 @@
   "graph-analysis",
   "obsidian-linter",
   "obsidian-git",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-pandoc"
 ]
