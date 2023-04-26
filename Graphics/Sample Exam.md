@@ -315,8 +315,7 @@ when w ≠ 0
 
 # Perspective Projection Matrix
 
-$$ M_{ortho} \bullet \begin{pmatrix}   n & 0 & 0 & 0 \\ 0 & n & 0 & 0\\   0 & 0 & n+f & -nf\\ 0 & 0 & 1 & 0  \end{pmatrix}
-$$
+![[Pasted image 20230426171418.png]]
 
 # Orthographic Matrix
 
@@ -348,4 +347,3 @@ $$\frac{l+r}{2}, \frac{t+b}{2}, \frac{f+n}{2}$$
 
 $$ T = \begin{pmatrix}   1 & 0 & 0 & -\frac{l+r}{2}\\ 0 & 1 & 0 & -\frac{t+b}{2}\\   0 & 0 & 1 & -\frac{f+n}{2}\\ 0 & 0 & 0 & 1  \end{pmatrix}
 $$
-

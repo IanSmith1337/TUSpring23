@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "projection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +207,8 @@
   },
   "active": "1d61f49006ab4816",
   "lastOpenFiles": [
+    "Pasted image 20230426171418.png",
+    "Pasted image 20230426171408.png",
     "Pasted image 20230426171200.png",
     "Pasted image 20230426171108.png",
     "Graphics/Perspective.md",
@@ -224,8 +225,6 @@
     "Images/Pasted image 20230426163343.png",
     "Images/Pasted image 20230426163332.png",
     "Images/Pasted image 20230426163320.png",
-    "Images/Pasted image 20230426163309.png",
-    "Images/Pasted image 20230426163259.png",
     "Graphics/Blinn-Phong Reflection.md",
     "Testing/BRO ICE.md",
     "Graphics/Shading Frequencies.md",
