@@ -61,3 +61,7 @@ Painters algorithm can have unresolved depth order with overlapping objects
 Z-Buffer fixes this by checking each pixel and storing the current minimum z-value (which is closest to the camera).
 
 ![[Pasted image 20230426155743.png]]
+
+## 3.1
+
+Parameters: Ambient
