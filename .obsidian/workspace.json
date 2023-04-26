@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "556e708a46bf5597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Orthographic.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d61f49006ab4816",
             "type": "leaf",
             "state": {
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,17 +194,23 @@
   },
   "active": "1d61f49006ab4816",
   "lastOpenFiles": [
-    "Graphics/Practice.md",
-    "Graphics/Orthographic.md",
+    "Graphics/Sampling.md",
     "Graphics/2D Transformation.md",
+    "Graphics/Splines.md",
+    "Graphics/Triangles.md",
     "Graphics/Sample Exam.md",
+    "Graphics/Incremental Triangle Traversal.md",
+    "Graphics/Bounding Box.md",
+    "Graphics/Projection Transformation.md",
+    "Graphics/Orthographic.md",
+    "Graphics/Rasterization.md",
+    "Graphics/Practice.md",
     "Images/Pasted image 20230426171108.png",
     "Images/Pasted image 20230426171542.png",
     "Images/Pasted image 20230426171418.png",
     "Images/Pasted image 20230426171408.png",
     "Images/Pasted image 20230426171200.png",
     "Graphics/Perspective.md",
-    "Graphics/Projection Transformation.md",
     "Graphics/3D Transformation.md",
     "Graphics/Homogeneous Coordinates.md",
     "Images/ExtrodrinaryMesh.jpg",
@@ -236,11 +229,6 @@
     "Graphics/Specular (Blinn-Phong).md",
     "Graphics/Lambertian.md",
     "Testing/Mutants.md",
-    "Testing/Domain Partitioning.md",
-    "Graphics/Particle System.md",
-    "Graphics/View Transform.md",
-    "Graphics/Z-buffer.md",
-    "Testing/Mutation Testing.md",
-    "Testing/Syntax-Based Testing.md"
+    "Testing/Domain Partitioning.md"
   ]
 }

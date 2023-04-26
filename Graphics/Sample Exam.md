@@ -333,4 +333,38 @@ $$\frac{l+r}{2}, \frac{t+b}{2}, \frac{f+n}{2}$$
 
 ![[Pasted image 20230426171542.png]]
 
-# 
+# Rasterization
+
+## Definition
+
+The fragmentation of shapes and primitives into [[Pixel|pixels]]. Rasterizing is drawing to a [[Raster]], aka [[Screen]].
+
+# Sampling
+
+## Definition
+
+Nothing in [[Computer Graphics]] is continuous. Sampling determines if a [[Pixel]] has a certain value on a [[Screen]]. Implementation of [[Rasterization]].
+
+## Types
+
+[[Bounding Box]]  
+[[Incremental Triangle Traversal]]
+
+## Using Cross Products to Determine Interior
+
+Using p0 and p1 (two points of triangle) then drawing a line from p0 to the point to evaluate: if cross product shows that the point is in the direction of interior and overlapping on all three sides of triangle, then it is inside.
+
+# Bounding Box
+
+## Definition
+
+bottom-left: Min_x(x1, x2, x3), min_y(y1, y2, y3)
+
+top-right: max_x(x1, x2, x3), max_y(y1, y2, y3)
+
+# Incremental Triangle Traversal
+
+## Method
+
+Move right as far as possible, then move up one pixel from leftmost point still inside of triangle.
+
