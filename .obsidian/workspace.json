@@ -30,6 +30,20 @@
     "type": "split",
     "children": [
       {
+        "id": "2434c541ea3b97d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa66deab0199b2b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "09231fba97fbd5eb",
         "type": "tabs",
         "children": [
@@ -113,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Exam Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,24 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Exam Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "aa66deab0199b2b0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Graphics/Exam Notes.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "06a5e3bd6084d7a5",
@@ -179,10 +180,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aa66deab0199b2b0",
+  "active": "24a6d18a1c4fd8b6",
   "lastOpenFiles": [
-    "Graphics/2D Transformation.md",
     "Graphics/Exam Notes.md",
+    "Graphics/2D Transformation.md",
     "Images/ExtrodrinaryMesh.jpg",
     "Images.zip",
     "Images/Pasted image 20230426174034.png",
