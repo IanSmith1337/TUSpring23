@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/Exam Notes.md",
+                "file": "Graphics/Practice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphics/Practice.md"
+              }
             }
           }
         ]
@@ -127,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphics/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphics/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +184,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6d18a1c4fd8b6",
+  "active": "d838229ad2b71aea",
   "lastOpenFiles": [
     "Graphics/Exam Notes.md",
     "Graphics/2D Transformation.md",
