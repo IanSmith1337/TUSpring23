@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6068337767edceb8",
+        "id": "aaa0a09a25898619",
         "type": "tabs",
         "children": [
           {
-            "id": "d838229ad2b71aea",
+            "id": "acd1b5e0bb4fb688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphics/Exam Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,15 +27,14 @@
       {
         "id": "2434c541ea3b97d1",
         "type": "tabs",
+        "dimension": 27.218934911242602,
         "children": [
           {
             "id": "aa66deab0199b2b0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graphics/Exam Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -48,6 +42,7 @@
       {
         "id": "09231fba97fbd5eb",
         "type": "tabs",
+        "dimension": 72.7810650887574,
         "children": [
           {
             "id": "f6f0cf6bc66b693b",
@@ -86,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 257.5
   },
   "right": {
     "id": "dcd2d9c5158eb9f4",
@@ -129,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Exam Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Exam Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +177,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d838229ad2b71aea",
+  "active": "acd1b5e0bb4fb688",
   "lastOpenFiles": [
-    "Graphics/Practice.md",
     "Graphics/Exam Notes.md",
+    "Graphics/Practice.md",
     "Graphics/2D Transformation.md",
     "Images/ExtrodrinaryMesh.jpg",
     "Images.zip",

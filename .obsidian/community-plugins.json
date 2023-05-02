@@ -1,8 +1,3 @@
 [
-  "code-block-copy",
-  "graph-analysis",
-  "obsidian-linter",
-  "obsidian-git",
-  "persistent-graph",
-  "obsidian-pandoc"
+  "obsidian-git"
 ]
