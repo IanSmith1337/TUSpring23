@@ -27,7 +27,7 @@
       {
         "id": "2434c541ea3b97d1",
         "type": "tabs",
-        "dimension": 27.218934911242602,
+        "dimension": 27.218934911242606,
         "children": [
           {
             "id": "aa66deab0199b2b0",
@@ -144,8 +144,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "70b1d1f0f9282a2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "06a5e3bd6084d7a5",
@@ -177,7 +186,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6d18a1c4fd8b6",
+  "active": "70b1d1f0f9282a2a",
   "lastOpenFiles": [
     "Graphics/Exam Notes.md",
     "Graphics/Practice.md",
